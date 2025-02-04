@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/WebDev-Ayush/LC2/tree/master/0854-making-a-large-island) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/WebDev-Ayush/LC2/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/WebDev-Ayush/LC2/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3429-special-array-i](https://github.com/WebDev-Ayush/LC2/tree/master/3429-special-array-i) |
 ## Union Find
