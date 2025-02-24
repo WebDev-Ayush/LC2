@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/WebDev-Ayush/LC2/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/WebDev-Ayush/LC2/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/WebDev-Ayush/LC2/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/WebDev-Ayush/LC2/tree/master/0057-insert-interval) |
 | [0854-making-a-large-island](https://github.com/WebDev-Ayush/LC2/tree/master/0854-making-a-large-island) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/WebDev-Ayush/LC2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/WebDev-Ayush/LC2/tree/master/1364-tuple-with-same-product) |
