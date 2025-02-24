@@ -141,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/WebDev-Ayush/LC2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/WebDev-Ayush/LC2/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/WebDev-Ayush/LC2/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
