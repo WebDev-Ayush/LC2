@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/WebDev-Ayush/LC2/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/WebDev-Ayush/LC2/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/WebDev-Ayush/LC2/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/WebDev-Ayush/LC2/tree/master/0049-group-anagrams) |
 | [1160-letter-tile-possibilities](https://github.com/WebDev-Ayush/LC2/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/WebDev-Ayush/LC2/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/WebDev-Ayush/LC2/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/WebDev-Ayush/LC2/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/WebDev-Ayush/LC2/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/WebDev-Ayush/LC2/tree/master/0049-group-anagrams) |
 | [0854-making-a-large-island](https://github.com/WebDev-Ayush/LC2/tree/master/0854-making-a-large-island) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/WebDev-Ayush/LC2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/WebDev-Ayush/LC2/tree/master/1364-tuple-with-same-product) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/WebDev-Ayush/LC2/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/WebDev-Ayush/LC2/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/WebDev-Ayush/LC2/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/WebDev-Ayush/LC2/tree/master/0049-group-anagrams) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/WebDev-Ayush/LC2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/WebDev-Ayush/LC2/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/WebDev-Ayush/LC2/tree/master/1364-tuple-with-same-product) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/WebDev-Ayush/LC2/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/WebDev-Ayush/LC2/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/WebDev-Ayush/LC2/tree/master/0049-group-anagrams) |
 ## Merge Sort
 |  |
 | ------- |
