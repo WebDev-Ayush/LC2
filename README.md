@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/WebDev-Ayush/LC2/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/WebDev-Ayush/LC2/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/WebDev-Ayush/LC2/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/WebDev-Ayush/LC2/tree/master/0055-jump-game) |
 | [0854-making-a-large-island](https://github.com/WebDev-Ayush/LC2/tree/master/0854-making-a-large-island) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/WebDev-Ayush/LC2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/WebDev-Ayush/LC2/tree/master/1364-tuple-with-same-product) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/WebDev-Ayush/LC2/tree/master/0055-jump-game) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/WebDev-Ayush/LC2/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Tree
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/WebDev-Ayush/LC2/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/WebDev-Ayush/LC2/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/WebDev-Ayush/LC2/tree/master/0055-jump-game) |
 ## Sorting
 |  |
 | ------- |
