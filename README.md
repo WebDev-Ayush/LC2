@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/WebDev-Ayush/LC2/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/WebDev-Ayush/LC2/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/WebDev-Ayush/LC2/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/WebDev-Ayush/LC2/tree/master/0053-maximum-subarray) |
 | [0854-making-a-large-island](https://github.com/WebDev-Ayush/LC2/tree/master/0854-making-a-large-island) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/WebDev-Ayush/LC2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/WebDev-Ayush/LC2/tree/master/1364-tuple-with-same-product) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/WebDev-Ayush/LC2/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/WebDev-Ayush/LC2/tree/master/0053-maximum-subarray) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/WebDev-Ayush/LC2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Linked List
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/WebDev-Ayush/LC2/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/WebDev-Ayush/LC2/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/WebDev-Ayush/LC2/tree/master/0053-maximum-subarray) |
 ## Sorting
 |  |
 | ------- |
