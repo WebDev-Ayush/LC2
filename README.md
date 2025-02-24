@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/WebDev-Ayush/LC2/tree/master/0023-merge-k-sorted-lists) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/WebDev-Ayush/LC2/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Math
 |  |
@@ -163,12 +164,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/WebDev-Ayush/LC2/tree/master/0023-merge-k-sorted-lists) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/WebDev-Ayush/LC2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/WebDev-Ayush/LC2/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/WebDev-Ayush/LC2/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/WebDev-Ayush/LC2/tree/master/0023-merge-k-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -191,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/WebDev-Ayush/LC2/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/WebDev-Ayush/LC2/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/WebDev-Ayush/LC2/tree/master/0018-4sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/WebDev-Ayush/LC2/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
