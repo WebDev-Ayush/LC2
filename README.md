@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/WebDev-Ayush/LC2/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/WebDev-Ayush/LC2/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/WebDev-Ayush/LC2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/WebDev-Ayush/LC2/tree/master/0015-3sum) |
 | [0854-making-a-large-island](https://github.com/WebDev-Ayush/LC2/tree/master/0854-making-a-large-island) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/WebDev-Ayush/LC2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/WebDev-Ayush/LC2/tree/master/1364-tuple-with-same-product) |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/WebDev-Ayush/LC2/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/WebDev-Ayush/LC2/tree/master/0010-regular-expression-matching) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/WebDev-Ayush/LC2/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
