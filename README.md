@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/WebDev-Ayush/LC2/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/WebDev-Ayush/LC2/tree/master/0048-rotate-image) |
 | [0854-making-a-large-island](https://github.com/WebDev-Ayush/LC2/tree/master/0854-making-a-large-island) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/WebDev-Ayush/LC2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/WebDev-Ayush/LC2/tree/master/1364-tuple-with-same-product) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/WebDev-Ayush/LC2/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/WebDev-Ayush/LC2/tree/master/0048-rotate-image) |
 | [0854-making-a-large-island](https://github.com/WebDev-Ayush/LC2/tree/master/0854-making-a-large-island) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/WebDev-Ayush/LC2/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Hash Table
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/WebDev-Ayush/LC2/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/WebDev-Ayush/LC2/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/WebDev-Ayush/LC2/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/WebDev-Ayush/LC2/tree/master/0048-rotate-image) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/WebDev-Ayush/LC2/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Backtracking
 |  |
