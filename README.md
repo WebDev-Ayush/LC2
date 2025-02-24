@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/WebDev-Ayush/LC2/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/WebDev-Ayush/LC2/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/WebDev-Ayush/LC2/tree/master/0051-n-queens) |
 | [0854-making-a-large-island](https://github.com/WebDev-Ayush/LC2/tree/master/0854-making-a-large-island) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/WebDev-Ayush/LC2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/WebDev-Ayush/LC2/tree/master/1364-tuple-with-same-product) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/WebDev-Ayush/LC2/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/WebDev-Ayush/LC2/tree/master/0051-n-queens) |
 | [1160-letter-tile-possibilities](https://github.com/WebDev-Ayush/LC2/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/WebDev-Ayush/LC2/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/WebDev-Ayush/LC2/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
