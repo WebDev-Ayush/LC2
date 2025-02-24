@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/WebDev-Ayush/LC2/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/WebDev-Ayush/LC2/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/WebDev-Ayush/LC2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0854-making-a-large-island](https://github.com/WebDev-Ayush/LC2/tree/master/0854-making-a-large-island) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/WebDev-Ayush/LC2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/WebDev-Ayush/LC2/tree/master/1364-tuple-with-same-product) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/WebDev-Ayush/LC2/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/WebDev-Ayush/LC2/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/WebDev-Ayush/LC2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
 | ------- |
