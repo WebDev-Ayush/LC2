@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/WebDev-Ayush/LC2/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/WebDev-Ayush/LC2/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/WebDev-Ayush/LC2/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/WebDev-Ayush/LC2/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/WebDev-Ayush/LC2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1160-letter-tile-possibilities](https://github.com/WebDev-Ayush/LC2/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/WebDev-Ayush/LC2/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/WebDev-Ayush/LC2/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/WebDev-Ayush/LC2/tree/master/0012-integer-to-roman) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/WebDev-Ayush/LC2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/WebDev-Ayush/LC2/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/WebDev-Ayush/LC2/tree/master/1364-tuple-with-same-product) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/WebDev-Ayush/LC2/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/WebDev-Ayush/LC2/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/WebDev-Ayush/LC2/tree/master/0012-integer-to-roman) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/WebDev-Ayush/LC2/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Backtracking
 |  |
