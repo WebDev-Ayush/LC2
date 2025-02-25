@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/WebDev-Ayush/LC2/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/WebDev-Ayush/LC2/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/WebDev-Ayush/LC2/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/WebDev-Ayush/LC2/tree/master/0135-candy) |
 | [0854-making-a-large-island](https://github.com/WebDev-Ayush/LC2/tree/master/0854-making-a-large-island) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/WebDev-Ayush/LC2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/WebDev-Ayush/LC2/tree/master/1364-tuple-with-same-product) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/WebDev-Ayush/LC2/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/WebDev-Ayush/LC2/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/WebDev-Ayush/LC2/tree/master/0135-candy) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/WebDev-Ayush/LC2/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Tree
 |  |
