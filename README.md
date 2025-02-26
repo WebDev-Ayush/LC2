@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/WebDev-Ayush/LC2/tree/master/0837-most-common-word) |
 | [0839-short-encoding-of-words](https://github.com/WebDev-Ayush/LC2/tree/master/0839-short-encoding-of-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/WebDev-Ayush/LC2/tree/master/0841-shortest-distance-to-a-character) |
+| [0851-goat-latin](https://github.com/WebDev-Ayush/LC2/tree/master/0851-goat-latin) |
 | [1160-letter-tile-possibilities](https://github.com/WebDev-Ayush/LC2/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/WebDev-Ayush/LC2/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/WebDev-Ayush/LC2/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
