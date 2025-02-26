@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/WebDev-Ayush/LC2/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/WebDev-Ayush/LC2/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/WebDev-Ayush/LC2/tree/master/0456-132-pattern) |
 | [0854-making-a-large-island](https://github.com/WebDev-Ayush/LC2/tree/master/0854-making-a-large-island) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/WebDev-Ayush/LC2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/WebDev-Ayush/LC2/tree/master/1364-tuple-with-same-product) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/WebDev-Ayush/LC2/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/WebDev-Ayush/LC2/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0456-132-pattern](https://github.com/WebDev-Ayush/LC2/tree/master/0456-132-pattern) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/WebDev-Ayush/LC2/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/WebDev-Ayush/LC2/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Heap (Priority Queue)
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/WebDev-Ayush/LC2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/WebDev-Ayush/LC2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0456-132-pattern](https://github.com/WebDev-Ayush/LC2/tree/master/0456-132-pattern) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -368,4 +371,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/WebDev-Ayush/LC2/tree/master/0149-max-points-on-a-line) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/WebDev-Ayush/LC2/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/WebDev-Ayush/LC2/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
