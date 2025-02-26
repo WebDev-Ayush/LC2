@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/WebDev-Ayush/LC2/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0447-number-of-boomerangs](https://github.com/WebDev-Ayush/LC2/tree/master/0447-number-of-boomerangs) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/WebDev-Ayush/LC2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0854-making-a-large-island](https://github.com/WebDev-Ayush/LC2/tree/master/0854-making-a-large-island) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/WebDev-Ayush/LC2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/WebDev-Ayush/LC2/tree/master/1364-tuple-with-same-product) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/WebDev-Ayush/LC2/tree/master/0149-max-points-on-a-line) |
 | [0447-number-of-boomerangs](https://github.com/WebDev-Ayush/LC2/tree/master/0447-number-of-boomerangs) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/WebDev-Ayush/LC2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/WebDev-Ayush/LC2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/WebDev-Ayush/LC2/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/WebDev-Ayush/LC2/tree/master/1364-tuple-with-same-product) |
