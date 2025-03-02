@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/WebDev-Ayush/LC2/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/WebDev-Ayush/LC2/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/WebDev-Ayush/LC2/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/WebDev-Ayush/LC2/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/WebDev-Ayush/LC2/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/WebDev-Ayush/LC2/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0140-word-break-ii) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/WebDev-Ayush/LC2/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/WebDev-Ayush/LC2/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/WebDev-Ayush/LC2/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2551-apply-operations-to-an-array](https://github.com/WebDev-Ayush/LC2/tree/master/2551-apply-operations-to-an-array) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/WebDev-Ayush/LC2/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/WebDev-Ayush/LC2/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/WebDev-Ayush/LC2/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/WebDev-Ayush/LC2/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/WebDev-Ayush/LC2/tree/master/0048-rotate-image) |
 | [0149-max-points-on-a-line](https://github.com/WebDev-Ayush/LC2/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/WebDev-Ayush/LC2/tree/master/0150-evaluate-reverse-polish-notation) |
