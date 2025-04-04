@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/WebDev-Ayush/LC2/tree/master/0472-concatenated-words) |
 | [0684-redundant-connection](https://github.com/WebDev-Ayush/LC2/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/WebDev-Ayush/LC2/tree/master/0854-making-a-large-island) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/WebDev-Ayush/LC2/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/WebDev-Ayush/LC2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/WebDev-Ayush/LC2/tree/master/1558-course-schedule-iv) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/WebDev-Ayush/LC2/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/WebDev-Ayush/LC2/tree/master/0463-island-perimeter) |
 | [0684-redundant-connection](https://github.com/WebDev-Ayush/LC2/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/WebDev-Ayush/LC2/tree/master/0854-making-a-large-island) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/WebDev-Ayush/LC2/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/WebDev-Ayush/LC2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/WebDev-Ayush/LC2/tree/master/1558-course-schedule-iv) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/WebDev-Ayush/LC2/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/WebDev-Ayush/LC2/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/WebDev-Ayush/LC2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/WebDev-Ayush/LC2/tree/master/1160-letter-tile-possibilities) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/WebDev-Ayush/LC2/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1364-tuple-with-same-product](https://github.com/WebDev-Ayush/LC2/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/WebDev-Ayush/LC2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/WebDev-Ayush/LC2/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/WebDev-Ayush/LC2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/WebDev-Ayush/LC2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/WebDev-Ayush/LC2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/WebDev-Ayush/LC2/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/WebDev-Ayush/LC2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/WebDev-Ayush/LC2/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Design
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/WebDev-Ayush/LC2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/WebDev-Ayush/LC2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/WebDev-Ayush/LC2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/WebDev-Ayush/LC2/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/WebDev-Ayush/LC2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Divide and Conquer
 |  |
