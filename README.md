@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/WebDev-Ayush/LC2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/WebDev-Ayush/LC2/tree/master/3483-alternating-groups-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/WebDev-Ayush/LC2/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/WebDev-Ayush/LC2/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Union Find
 |  |
 | ------- |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/WebDev-Ayush/LC2/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2915-count-of-interesting-subarrays](https://github.com/WebDev-Ayush/LC2/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/WebDev-Ayush/LC2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/WebDev-Ayush/LC2/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Trie
 |  |
 | ------- |
@@ -584,4 +586,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/WebDev-Ayush/LC2/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/WebDev-Ayush/LC2/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Segment Tree
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/WebDev-Ayush/LC2/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
