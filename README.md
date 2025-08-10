@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/WebDev-Ayush/LC2/tree/master/0829-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/WebDev-Ayush/LC2/tree/master/0837-most-common-word) |
 | [0839-short-encoding-of-words](https://github.com/WebDev-Ayush/LC2/tree/master/0839-short-encoding-of-words) |
+| [0900-reordered-power-of-2](https://github.com/WebDev-Ayush/LC2/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/WebDev-Ayush/LC2/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/WebDev-Ayush/LC2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/WebDev-Ayush/LC2/tree/master/1160-letter-tile-possibilities) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/WebDev-Ayush/LC2/tree/master/0594-longest-harmonious-subsequence) |
 | [0829-subdomain-visit-count](https://github.com/WebDev-Ayush/LC2/tree/master/0829-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/WebDev-Ayush/LC2/tree/master/0837-most-common-word) |
+| [0900-reordered-power-of-2](https://github.com/WebDev-Ayush/LC2/tree/master/0900-reordered-power-of-2) |
 | [1160-letter-tile-possibilities](https://github.com/WebDev-Ayush/LC2/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/WebDev-Ayush/LC2/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/WebDev-Ayush/LC2/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/WebDev-Ayush/LC2/tree/master/0477-total-hamming-distance) |
 | [0797-rabbits-in-forest](https://github.com/WebDev-Ayush/LC2/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/WebDev-Ayush/LC2/tree/master/0900-reordered-power-of-2) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/WebDev-Ayush/LC2/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/WebDev-Ayush/LC2/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/WebDev-Ayush/LC2/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/WebDev-Ayush/LC2/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/WebDev-Ayush/LC2/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/WebDev-Ayush/LC2/tree/master/0900-reordered-power-of-2) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/WebDev-Ayush/LC2/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2681-put-marbles-in-bags](https://github.com/WebDev-Ayush/LC2/tree/master/2681-put-marbles-in-bags) |
 ## Merge Sort
@@ -585,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/WebDev-Ayush/LC2/tree/master/0900-reordered-power-of-2) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/WebDev-Ayush/LC2/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/WebDev-Ayush/LC2/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Segment Tree
