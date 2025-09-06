@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/WebDev-Ayush/LC2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/WebDev-Ayush/LC2/tree/master/3483-alternating-groups-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/WebDev-Ayush/LC2/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/WebDev-Ayush/LC2/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/WebDev-Ayush/LC2/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Union Find
 |  |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/WebDev-Ayush/LC2/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/WebDev-Ayush/LC2/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/WebDev-Ayush/LC2/tree/master/3227-find-missing-and-repeated-values) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/WebDev-Ayush/LC2/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Backtracking
 |  |
 | ------- |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/WebDev-Ayush/LC2/tree/master/0477-total-hamming-distance) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/WebDev-Ayush/LC2/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/WebDev-Ayush/LC2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/WebDev-Ayush/LC2/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Binary Search
 |  |
 | ------- |
