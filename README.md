@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/WebDev-Ayush/LC2/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/WebDev-Ayush/LC2/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/WebDev-Ayush/LC2/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/WebDev-Ayush/LC2/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/WebDev-Ayush/LC2/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/WebDev-Ayush/LC2/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/WebDev-Ayush/LC2/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/WebDev-Ayush/LC2/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/WebDev-Ayush/LC2/tree/master/0900-reordered-power-of-2) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/WebDev-Ayush/LC2/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/WebDev-Ayush/LC2/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/WebDev-Ayush/LC2/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/WebDev-Ayush/LC2/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/WebDev-Ayush/LC2/tree/master/2415-count-the-number-of-ideal-arrays) |
