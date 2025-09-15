@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/WebDev-Ayush/LC2/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1160-letter-tile-possibilities](https://github.com/WebDev-Ayush/LC2/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/WebDev-Ayush/LC2/tree/master/1170-shortest-common-supersequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/WebDev-Ayush/LC2/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/WebDev-Ayush/LC2/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/WebDev-Ayush/LC2/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/WebDev-Ayush/LC2/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/WebDev-Ayush/LC2/tree/master/1006-vowel-spellchecker) |
 | [1160-letter-tile-possibilities](https://github.com/WebDev-Ayush/LC2/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/WebDev-Ayush/LC2/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/WebDev-Ayush/LC2/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1364-tuple-with-same-product](https://github.com/WebDev-Ayush/LC2/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/WebDev-Ayush/LC2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/WebDev-Ayush/LC2/tree/master/1460-number-of-substrings-containing-all-three-characters) |
