@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/WebDev-Ayush/LC2/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/WebDev-Ayush/LC2/tree/master/3194-find-words-containing-character) |
 | [3462-vowels-game-in-a-string](https://github.com/WebDev-Ayush/LC2/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/WebDev-Ayush/LC2/tree/master/3797-design-spreadsheet) |
 ## String Matching
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/WebDev-Ayush/LC2/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/WebDev-Ayush/LC2/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/WebDev-Ayush/LC2/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3797-design-spreadsheet](https://github.com/WebDev-Ayush/LC2/tree/master/3797-design-spreadsheet) |
 ## Union Find
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/WebDev-Ayush/LC2/tree/master/0854-making-a-large-island) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/WebDev-Ayush/LC2/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/WebDev-Ayush/LC2/tree/master/3227-find-missing-and-repeated-values) |
+| [3797-design-spreadsheet](https://github.com/WebDev-Ayush/LC2/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/WebDev-Ayush/LC2/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/WebDev-Ayush/LC2/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/WebDev-Ayush/LC2/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3797-design-spreadsheet](https://github.com/WebDev-Ayush/LC2/tree/master/3797-design-spreadsheet) |
 ## Counting
 |  |
 | ------- |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/WebDev-Ayush/LC2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [3797-design-spreadsheet](https://github.com/WebDev-Ayush/LC2/tree/master/3797-design-spreadsheet) |
 ## Binary Tree
 |  |
 | ------- |
