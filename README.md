@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/WebDev-Ayush/LC2/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/WebDev-Ayush/LC2/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0140-word-break-ii) |
+| [0166-fraction-to-recurring-decimal](https://github.com/WebDev-Ayush/LC2/tree/master/0166-fraction-to-recurring-decimal) |
 | [0472-concatenated-words](https://github.com/WebDev-Ayush/LC2/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/WebDev-Ayush/LC2/tree/master/0474-ones-and-zeroes) |
 | [0822-unique-morse-code-words](https://github.com/WebDev-Ayush/LC2/tree/master/0822-unique-morse-code-words) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/WebDev-Ayush/LC2/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/WebDev-Ayush/LC2/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/WebDev-Ayush/LC2/tree/master/0166-fraction-to-recurring-decimal) |
 | [0447-number-of-boomerangs](https://github.com/WebDev-Ayush/LC2/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/WebDev-Ayush/LC2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0454-4sum-ii) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/WebDev-Ayush/LC2/tree/master/0048-rotate-image) |
 | [0149-max-points-on-a-line](https://github.com/WebDev-Ayush/LC2/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/WebDev-Ayush/LC2/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/WebDev-Ayush/LC2/tree/master/0166-fraction-to-recurring-decimal) |
 | [0342-power-of-four](https://github.com/WebDev-Ayush/LC2/tree/master/0342-power-of-four) |
 | [0447-number-of-boomerangs](https://github.com/WebDev-Ayush/LC2/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/WebDev-Ayush/LC2/tree/master/0453-minimum-moves-to-equal-array-elements) |
