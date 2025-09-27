@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-number-of-lines-to-write-string](https://github.com/WebDev-Ayush/LC2/tree/master/0824-number-of-lines-to-write-string) |
 | [0827-expressive-words](https://github.com/WebDev-Ayush/LC2/tree/master/0827-expressive-words) |
 | [0829-subdomain-visit-count](https://github.com/WebDev-Ayush/LC2/tree/master/0829-subdomain-visit-count) |
+| [0830-largest-triangle-area](https://github.com/WebDev-Ayush/LC2/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/WebDev-Ayush/LC2/tree/master/0837-most-common-word) |
 | [0839-short-encoding-of-words](https://github.com/WebDev-Ayush/LC2/tree/master/0839-short-encoding-of-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/WebDev-Ayush/LC2/tree/master/0841-shortest-distance-to-a-character) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/WebDev-Ayush/LC2/tree/master/0477-total-hamming-distance) |
 | [0797-rabbits-in-forest](https://github.com/WebDev-Ayush/LC2/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/WebDev-Ayush/LC2/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/WebDev-Ayush/LC2/tree/master/0900-reordered-power-of-2) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/WebDev-Ayush/LC2/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/WebDev-Ayush/LC2/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/WebDev-Ayush/LC2/tree/master/0149-max-points-on-a-line) |
+| [0830-largest-triangle-area](https://github.com/WebDev-Ayush/LC2/tree/master/0830-largest-triangle-area) |
 ## Monotonic Stack
 |  |
 | ------- |
