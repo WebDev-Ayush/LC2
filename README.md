@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/WebDev-Ayush/LC2/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/WebDev-Ayush/LC2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/WebDev-Ayush/LC2/tree/master/3483-alternating-groups-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/WebDev-Ayush/LC2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/WebDev-Ayush/LC2/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/WebDev-Ayush/LC2/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/WebDev-Ayush/LC2/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/WebDev-Ayush/LC2/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/WebDev-Ayush/LC2/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/WebDev-Ayush/LC2/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/WebDev-Ayush/LC2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/WebDev-Ayush/LC2/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3797-design-spreadsheet](https://github.com/WebDev-Ayush/LC2/tree/master/3797-design-spreadsheet) |
 ## Counting
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/WebDev-Ayush/LC2/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2681-put-marbles-in-bags](https://github.com/WebDev-Ayush/LC2/tree/master/2681-put-marbles-in-bags) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/WebDev-Ayush/LC2/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/WebDev-Ayush/LC2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Math
 |  |
 | ------- |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/WebDev-Ayush/LC2/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/WebDev-Ayush/LC2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/WebDev-Ayush/LC2/tree/master/3483-alternating-groups-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/WebDev-Ayush/LC2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Dynamic Programming
 |  |
 | ------- |
