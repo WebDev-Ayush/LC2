@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/WebDev-Ayush/LC2/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/WebDev-Ayush/LC2/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/WebDev-Ayush/LC2/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2211-count-collisions-on-a-road](https://github.com/WebDev-Ayush/LC2/tree/master/2211-count-collisions-on-a-road) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/WebDev-Ayush/LC2/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/WebDev-Ayush/LC2/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/WebDev-Ayush/LC2/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/WebDev-Ayush/LC2/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/WebDev-Ayush/LC2/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/WebDev-Ayush/LC2/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2211-count-collisions-on-a-road](https://github.com/WebDev-Ayush/LC2/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/WebDev-Ayush/LC2/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/WebDev-Ayush/LC2/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2551-apply-operations-to-an-array](https://github.com/WebDev-Ayush/LC2/tree/master/2551-apply-operations-to-an-array) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/WebDev-Ayush/LC2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0456-132-pattern](https://github.com/WebDev-Ayush/LC2/tree/master/0456-132-pattern) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/WebDev-Ayush/LC2/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2211-count-collisions-on-a-road](https://github.com/WebDev-Ayush/LC2/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/WebDev-Ayush/LC2/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/WebDev-Ayush/LC2/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Heap (Priority Queue)
