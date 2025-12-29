@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/WebDev-Ayush/LC2/tree/master/0166-fraction-to-recurring-decimal) |
 | [0472-concatenated-words](https://github.com/WebDev-Ayush/LC2/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/WebDev-Ayush/LC2/tree/master/0474-ones-and-zeroes) |
+| [0756-pyramid-transition-matrix](https://github.com/WebDev-Ayush/LC2/tree/master/0756-pyramid-transition-matrix) |
 | [0822-unique-morse-code-words](https://github.com/WebDev-Ayush/LC2/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/WebDev-Ayush/LC2/tree/master/0824-number-of-lines-to-write-string) |
 | [0827-expressive-words](https://github.com/WebDev-Ayush/LC2/tree/master/0827-expressive-words) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/WebDev-Ayush/LC2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0454-4sum-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/WebDev-Ayush/LC2/tree/master/0594-longest-harmonious-subsequence) |
+| [0756-pyramid-transition-matrix](https://github.com/WebDev-Ayush/LC2/tree/master/0756-pyramid-transition-matrix) |
 | [0797-rabbits-in-forest](https://github.com/WebDev-Ayush/LC2/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/WebDev-Ayush/LC2/tree/master/0822-unique-morse-code-words) |
 | [0829-subdomain-visit-count](https://github.com/WebDev-Ayush/LC2/tree/master/0829-subdomain-visit-count) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0090-subsets-ii) |
 | [0140-word-break-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0140-word-break-ii) |
 | [0473-matchsticks-to-square](https://github.com/WebDev-Ayush/LC2/tree/master/0473-matchsticks-to-square) |
+| [0756-pyramid-transition-matrix](https://github.com/WebDev-Ayush/LC2/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/WebDev-Ayush/LC2/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/WebDev-Ayush/LC2/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/WebDev-Ayush/LC2/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/WebDev-Ayush/LC2/tree/master/0342-power-of-four) |
 | [0473-matchsticks-to-square](https://github.com/WebDev-Ayush/LC2/tree/master/0473-matchsticks-to-square) |
 | [0477-total-hamming-distance](https://github.com/WebDev-Ayush/LC2/tree/master/0477-total-hamming-distance) |
+| [0756-pyramid-transition-matrix](https://github.com/WebDev-Ayush/LC2/tree/master/0756-pyramid-transition-matrix) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/WebDev-Ayush/LC2/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/WebDev-Ayush/LC2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/WebDev-Ayush/LC2/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
