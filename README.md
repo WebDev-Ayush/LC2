@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/WebDev-Ayush/LC2/tree/master/1732-find-the-highest-altitude) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/WebDev-Ayush/LC2/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/WebDev-Ayush/LC2/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1840-maximum-building-height](https://github.com/WebDev-Ayush/LC2/tree/master/1840-maximum-building-height) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/WebDev-Ayush/LC2/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/WebDev-Ayush/LC2/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/WebDev-Ayush/LC2/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/WebDev-Ayush/LC2/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/WebDev-Ayush/LC2/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/WebDev-Ayush/LC2/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1840-maximum-building-height](https://github.com/WebDev-Ayush/LC2/tree/master/1840-maximum-building-height) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/WebDev-Ayush/LC2/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/WebDev-Ayush/LC2/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/WebDev-Ayush/LC2/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/WebDev-Ayush/LC2/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/WebDev-Ayush/LC2/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/WebDev-Ayush/LC2/tree/master/0900-reordered-power-of-2) |
+| [1840-maximum-building-height](https://github.com/WebDev-Ayush/LC2/tree/master/1840-maximum-building-height) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/WebDev-Ayush/LC2/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/WebDev-Ayush/LC2/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2681-put-marbles-in-bags](https://github.com/WebDev-Ayush/LC2/tree/master/2681-put-marbles-in-bags) |
