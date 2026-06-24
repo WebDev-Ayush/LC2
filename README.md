@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/WebDev-Ayush/LC2/tree/master/0094-binary-tree-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/WebDev-Ayush/LC2/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/WebDev-Ayush/LC2/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/WebDev-Ayush/LC2/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/WebDev-Ayush/LC2/tree/master/0472-concatenated-words) |
 | [0684-redundant-connection](https://github.com/WebDev-Ayush/LC2/tree/master/0684-redundant-connection) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/WebDev-Ayush/LC2/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/WebDev-Ayush/LC2/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/WebDev-Ayush/LC2/tree/master/0463-island-perimeter) |
 | [0684-redundant-connection](https://github.com/WebDev-Ayush/LC2/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/WebDev-Ayush/LC2/tree/master/0854-making-a-large-island) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/WebDev-Ayush/LC2/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/WebDev-Ayush/LC2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0200-number-of-islands](https://github.com/WebDev-Ayush/LC2/tree/master/0200-number-of-islands) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/WebDev-Ayush/LC2/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0447-number-of-boomerangs](https://github.com/WebDev-Ayush/LC2/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/WebDev-Ayush/LC2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/WebDev-Ayush/LC2/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/WebDev-Ayush/LC2/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/WebDev-Ayush/LC2/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/WebDev-Ayush/LC2/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/WebDev-Ayush/LC2/tree/master/0463-island-perimeter) |
 | [0854-making-a-large-island](https://github.com/WebDev-Ayush/LC2/tree/master/0854-making-a-large-island) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/WebDev-Ayush/LC2/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -703,4 +707,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/WebDev-Ayush/LC2/tree/master/1833-maximum-ice-cream-bars) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/WebDev-Ayush/LC2/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
