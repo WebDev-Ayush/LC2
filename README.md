@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/WebDev-Ayush/LC2/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/WebDev-Ayush/LC2/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/WebDev-Ayush/LC2/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/WebDev-Ayush/LC2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/WebDev-Ayush/LC2/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/WebDev-Ayush/LC2/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/WebDev-Ayush/LC2/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/WebDev-Ayush/LC2/tree/master/1840-maximum-building-height) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/WebDev-Ayush/LC2/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/WebDev-Ayush/LC2/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/WebDev-Ayush/LC2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/WebDev-Ayush/LC2/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2107-find-unique-binary-string](https://github.com/WebDev-Ayush/LC2/tree/master/2107-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/WebDev-Ayush/LC2/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
