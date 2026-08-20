@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/WebDev-Ayush/LC2/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/WebDev-Ayush/LC2/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/WebDev-Ayush/LC2/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/WebDev-Ayush/LC2/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-find-words-containing-character](https://github.com/WebDev-Ayush/LC2/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/WebDev-Ayush/LC2/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/WebDev-Ayush/LC2/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/WebDev-Ayush/LC2/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/WebDev-Ayush/LC2/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2551-apply-operations-to-an-array](https://github.com/WebDev-Ayush/LC2/tree/master/2551-apply-operations-to-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/WebDev-Ayush/LC2/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/WebDev-Ayush/LC2/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/WebDev-Ayush/LC2/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/WebDev-Ayush/LC2/tree/master/3616-make-array-elements-equal-to-zero) |
