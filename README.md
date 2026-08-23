@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/WebDev-Ayush/LC2/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/WebDev-Ayush/LC2/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/WebDev-Ayush/LC2/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1927-sum-game](https://github.com/WebDev-Ayush/LC2/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/WebDev-Ayush/LC2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/WebDev-Ayush/LC2/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/WebDev-Ayush/LC2/tree/master/2107-find-unique-binary-string) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/WebDev-Ayush/LC2/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1840-maximum-building-height](https://github.com/WebDev-Ayush/LC2/tree/master/1840-maximum-building-height) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/WebDev-Ayush/LC2/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1927-sum-game](https://github.com/WebDev-Ayush/LC2/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/WebDev-Ayush/LC2/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/WebDev-Ayush/LC2/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/WebDev-Ayush/LC2/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/WebDev-Ayush/LC2/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/WebDev-Ayush/LC2/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/WebDev-Ayush/LC2/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1927-sum-game](https://github.com/WebDev-Ayush/LC2/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/WebDev-Ayush/LC2/tree/master/2029-stone-game-ix) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/WebDev-Ayush/LC2/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/WebDev-Ayush/LC2/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/WebDev-Ayush/LC2/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/WebDev-Ayush/LC2/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/WebDev-Ayush/LC2/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/WebDev-Ayush/LC2/tree/master/3462-vowels-game-in-a-string) |
 ## Counting Sort
