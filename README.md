@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/WebDev-Ayush/LC2/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/WebDev-Ayush/LC2/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2887-sort-vowels-in-a-string](https://github.com/WebDev-Ayush/LC2/tree/master/2887-sort-vowels-in-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/WebDev-Ayush/LC2/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/WebDev-Ayush/LC2/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3194-find-words-containing-character](https://github.com/WebDev-Ayush/LC2/tree/master/3194-find-words-containing-character) |
 | [3462-vowels-game-in-a-string](https://github.com/WebDev-Ayush/LC2/tree/master/3462-vowels-game-in-a-string) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/WebDev-Ayush/LC2/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/WebDev-Ayush/LC2/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/WebDev-Ayush/LC2/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/WebDev-Ayush/LC2/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/WebDev-Ayush/LC2/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/WebDev-Ayush/LC2/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/WebDev-Ayush/LC2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
