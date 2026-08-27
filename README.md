@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/WebDev-Ayush/LC2/tree/master/3194-find-words-containing-character) |
 | [3462-vowels-game-in-a-string](https://github.com/WebDev-Ayush/LC2/tree/master/3462-vowels-game-in-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/WebDev-Ayush/LC2/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/WebDev-Ayush/LC2/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3797-design-spreadsheet](https://github.com/WebDev-Ayush/LC2/tree/master/3797-design-spreadsheet) |
 ## String Matching
 |  |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/WebDev-Ayush/LC2/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/WebDev-Ayush/LC2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/WebDev-Ayush/LC2/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/WebDev-Ayush/LC2/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/WebDev-Ayush/LC2/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3797-design-spreadsheet](https://github.com/WebDev-Ayush/LC2/tree/master/3797-design-spreadsheet) |
 ## Counting
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/WebDev-Ayush/LC2/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/WebDev-Ayush/LC2/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/WebDev-Ayush/LC2/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/WebDev-Ayush/LC2/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/WebDev-Ayush/LC2/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
 |  |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/WebDev-Ayush/LC2/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/WebDev-Ayush/LC2/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/WebDev-Ayush/LC2/tree/master/2681-put-marbles-in-bags) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/WebDev-Ayush/LC2/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Tree
 |  |
 | ------- |
@@ -758,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/WebDev-Ayush/LC2/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/WebDev-Ayush/LC2/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/WebDev-Ayush/LC2/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/WebDev-Ayush/LC2/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/WebDev-Ayush/LC2/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Segment Tree
 |  |
