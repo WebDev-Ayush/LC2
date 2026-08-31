@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/WebDev-Ayush/LC2/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/WebDev-Ayush/LC2/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/WebDev-Ayush/LC2/tree/master/0086-partition-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/WebDev-Ayush/LC2/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
