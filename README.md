@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/WebDev-Ayush/LC2/tree/master/3797-design-spreadsheet) |
 | [3875-construct-uniform-parity-array-i](https://github.com/WebDev-Ayush/LC2/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/WebDev-Ayush/LC2/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/WebDev-Ayush/LC2/tree/master/3903-smallest-stable-index-i) |
 ## Union Find
 |  |
 | ------- |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-number-of-zigzag-arrays-i](https://github.com/WebDev-Ayush/LC2/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/WebDev-Ayush/LC2/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/WebDev-Ayush/LC2/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3903-smallest-stable-index-i](https://github.com/WebDev-Ayush/LC2/tree/master/3903-smallest-stable-index-i) |
 ## Trie
 |  |
 | ------- |
