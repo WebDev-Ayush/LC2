@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/WebDev-Ayush/LC2/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/WebDev-Ayush/LC2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/WebDev-Ayush/LC2/tree/master/3483-alternating-groups-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/WebDev-Ayush/LC2/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/WebDev-Ayush/LC2/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/WebDev-Ayush/LC2/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/WebDev-Ayush/LC2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/WebDev-Ayush/LC2/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/WebDev-Ayush/LC2/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/WebDev-Ayush/LC2/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/WebDev-Ayush/LC2/tree/master/3483-unique-3-digit-even-numbers) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/WebDev-Ayush/LC2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/WebDev-Ayush/LC2/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/WebDev-Ayush/LC2/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/WebDev-Ayush/LC2/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/WebDev-Ayush/LC2/tree/master/0025-reverse-nodes-in-k-group) |
 | [0342-power-of-four](https://github.com/WebDev-Ayush/LC2/tree/master/0342-power-of-four) |
+| [3483-unique-3-digit-even-numbers](https://github.com/WebDev-Ayush/LC2/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -779,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/WebDev-Ayush/LC2/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/WebDev-Ayush/LC2/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/WebDev-Ayush/LC2/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3483-unique-3-digit-even-numbers](https://github.com/WebDev-Ayush/LC2/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/WebDev-Ayush/LC2/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/WebDev-Ayush/LC2/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/WebDev-Ayush/LC2/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
