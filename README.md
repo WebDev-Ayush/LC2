@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-expressive-words](https://github.com/WebDev-Ayush/LC2/tree/master/0827-expressive-words) |
 | [0829-subdomain-visit-count](https://github.com/WebDev-Ayush/LC2/tree/master/0829-subdomain-visit-count) |
 | [0830-largest-triangle-area](https://github.com/WebDev-Ayush/LC2/tree/master/0830-largest-triangle-area) |
+| [0835-image-overlap](https://github.com/WebDev-Ayush/LC2/tree/master/0835-image-overlap) |
 | [0837-most-common-word](https://github.com/WebDev-Ayush/LC2/tree/master/0837-most-common-word) |
 | [0839-short-encoding-of-words](https://github.com/WebDev-Ayush/LC2/tree/master/0839-short-encoding-of-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/WebDev-Ayush/LC2/tree/master/0841-shortest-distance-to-a-character) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/WebDev-Ayush/LC2/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/WebDev-Ayush/LC2/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/WebDev-Ayush/LC2/tree/master/0463-island-perimeter) |
+| [0835-image-overlap](https://github.com/WebDev-Ayush/LC2/tree/master/0835-image-overlap) |
 | [0854-making-a-large-island](https://github.com/WebDev-Ayush/LC2/tree/master/0854-making-a-large-island) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/WebDev-Ayush/LC2/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/WebDev-Ayush/LC2/tree/master/2764-maximum-number-of-fish-in-a-grid) |
