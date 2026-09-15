@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/WebDev-Ayush/LC2/tree/master/0475-heaters) |
 | [0827-expressive-words](https://github.com/WebDev-Ayush/LC2/tree/master/0827-expressive-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/WebDev-Ayush/LC2/tree/master/0841-shortest-distance-to-a-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/WebDev-Ayush/LC2/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2551-apply-operations-to-an-array](https://github.com/WebDev-Ayush/LC2/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/WebDev-Ayush/LC2/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/WebDev-Ayush/LC2/tree/master/3643-flip-square-submatrix-vertically) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/WebDev-Ayush/LC2/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/WebDev-Ayush/LC2/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/WebDev-Ayush/LC2/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/WebDev-Ayush/LC2/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/WebDev-Ayush/LC2/tree/master/2887-sort-vowels-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/WebDev-Ayush/LC2/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/WebDev-Ayush/LC2/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/WebDev-Ayush/LC2/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/WebDev-Ayush/LC2/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/WebDev-Ayush/LC2/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/WebDev-Ayush/LC2/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2681-put-marbles-in-bags](https://github.com/WebDev-Ayush/LC2/tree/master/2681-put-marbles-in-bags) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/WebDev-Ayush/LC2/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Tree
@@ -620,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/WebDev-Ayush/LC2/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/WebDev-Ayush/LC2/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/WebDev-Ayush/LC2/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/WebDev-Ayush/LC2/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/WebDev-Ayush/LC2/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/WebDev-Ayush/LC2/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Sorting
