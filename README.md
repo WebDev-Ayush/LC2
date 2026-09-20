@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/WebDev-Ayush/LC2/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3194-find-words-containing-character](https://github.com/WebDev-Ayush/LC2/tree/master/3194-find-words-containing-character) |
 | [3462-vowels-game-in-a-string](https://github.com/WebDev-Ayush/LC2/tree/master/3462-vowels-game-in-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/WebDev-Ayush/LC2/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/WebDev-Ayush/LC2/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/WebDev-Ayush/LC2/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/WebDev-Ayush/LC2/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/WebDev-Ayush/LC2/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/WebDev-Ayush/LC2/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/WebDev-Ayush/LC2/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3498-reverse-degree-of-a-string](https://github.com/WebDev-Ayush/LC2/tree/master/3498-reverse-degree-of-a-string) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/WebDev-Ayush/LC2/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Stack
 |  |
