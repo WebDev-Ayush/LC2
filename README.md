@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/WebDev-Ayush/LC2/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/WebDev-Ayush/LC2/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/WebDev-Ayush/LC2/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/WebDev-Ayush/LC2/tree/master/3525-find-x-value-of-array-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/WebDev-Ayush/LC2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/WebDev-Ayush/LC2/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3643-flip-square-submatrix-vertically](https://github.com/WebDev-Ayush/LC2/tree/master/3643-flip-square-submatrix-vertically) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/WebDev-Ayush/LC2/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/WebDev-Ayush/LC2/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/WebDev-Ayush/LC2/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/WebDev-Ayush/LC2/tree/master/3525-find-x-value-of-array-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/WebDev-Ayush/LC2/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/WebDev-Ayush/LC2/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/WebDev-Ayush/LC2/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -814,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/WebDev-Ayush/LC2/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3525-find-x-value-of-array-ii](https://github.com/WebDev-Ayush/LC2/tree/master/3525-find-x-value-of-array-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/WebDev-Ayush/LC2/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/WebDev-Ayush/LC2/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Brainteaser
