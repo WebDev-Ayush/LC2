@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/WebDev-Ayush/LC2/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/WebDev-Ayush/LC2/tree/master/1563-stone-game-v) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/WebDev-Ayush/LC2/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/WebDev-Ayush/LC2/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/WebDev-Ayush/LC2/tree/master/1732-find-the-highest-altitude) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/WebDev-Ayush/LC2/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/WebDev-Ayush/LC2/tree/master/1833-maximum-ice-cream-bars) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/WebDev-Ayush/LC2/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/WebDev-Ayush/LC2/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/WebDev-Ayush/LC2/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/WebDev-Ayush/LC2/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/WebDev-Ayush/LC2/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/WebDev-Ayush/LC2/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/WebDev-Ayush/LC2/tree/master/2107-find-unique-binary-string) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/WebDev-Ayush/LC2/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/WebDev-Ayush/LC2/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/WebDev-Ayush/LC2/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/WebDev-Ayush/LC2/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/WebDev-Ayush/LC2/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/WebDev-Ayush/LC2/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/WebDev-Ayush/LC2/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -698,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/WebDev-Ayush/LC2/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/WebDev-Ayush/LC2/tree/master/0475-heaters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/WebDev-Ayush/LC2/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/WebDev-Ayush/LC2/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -706,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/WebDev-Ayush/LC2/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/WebDev-Ayush/LC2/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/WebDev-Ayush/LC2/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/WebDev-Ayush/LC2/tree/master/1872-stone-game-viii) |
 | [2906-construct-product-matrix](https://github.com/WebDev-Ayush/LC2/tree/master/2906-construct-product-matrix) |
