@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-short-encoding-of-words](https://github.com/WebDev-Ayush/LC2/tree/master/0839-short-encoding-of-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/WebDev-Ayush/LC2/tree/master/0841-shortest-distance-to-a-character) |
 | [0851-goat-latin](https://github.com/WebDev-Ayush/LC2/tree/master/0851-goat-latin) |
+| [0856-score-of-parentheses](https://github.com/WebDev-Ayush/LC2/tree/master/0856-score-of-parentheses) |
 | [0857-positions-of-large-groups](https://github.com/WebDev-Ayush/LC2/tree/master/0857-positions-of-large-groups) |
 | [0940-distinct-subsequences-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0940-distinct-subsequences-ii) |
 | [1006-vowel-spellchecker](https://github.com/WebDev-Ayush/LC2/tree/master/1006-vowel-spellchecker) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/WebDev-Ayush/LC2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0456-132-pattern](https://github.com/WebDev-Ayush/LC2/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/WebDev-Ayush/LC2/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/WebDev-Ayush/LC2/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/WebDev-Ayush/LC2/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/WebDev-Ayush/LC2/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/WebDev-Ayush/LC2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -880,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/WebDev-Ayush/LC2/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/WebDev-Ayush/LC2/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/WebDev-Ayush/LC2/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/WebDev-Ayush/LC2/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/WebDev-Ayush/LC2/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/WebDev-Ayush/LC2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
