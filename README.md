@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/WebDev-Ayush/LC2/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0140-word-break-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/WebDev-Ayush/LC2/tree/master/0166-fraction-to-recurring-decimal) |
+| [0301-remove-invalid-parentheses](https://github.com/WebDev-Ayush/LC2/tree/master/0301-remove-invalid-parentheses) |
 | [0472-concatenated-words](https://github.com/WebDev-Ayush/LC2/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/WebDev-Ayush/LC2/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/WebDev-Ayush/LC2/tree/master/0678-valid-parenthesis-string) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/WebDev-Ayush/LC2/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/WebDev-Ayush/LC2/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/WebDev-Ayush/LC2/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/WebDev-Ayush/LC2/tree/master/0463-island-perimeter) |
 | [0684-redundant-connection](https://github.com/WebDev-Ayush/LC2/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/WebDev-Ayush/LC2/tree/master/0854-making-a-large-island) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/WebDev-Ayush/LC2/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0090-subsets-ii) |
 | [0140-word-break-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0140-word-break-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/WebDev-Ayush/LC2/tree/master/0301-remove-invalid-parentheses) |
 | [0473-matchsticks-to-square](https://github.com/WebDev-Ayush/LC2/tree/master/0473-matchsticks-to-square) |
 | [0756-pyramid-transition-matrix](https://github.com/WebDev-Ayush/LC2/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/WebDev-Ayush/LC2/tree/master/1160-letter-tile-possibilities) |
