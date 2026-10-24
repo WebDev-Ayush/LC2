@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/WebDev-Ayush/LC2/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/WebDev-Ayush/LC2/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/WebDev-Ayush/LC2/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2409-count-days-spent-together](https://github.com/WebDev-Ayush/LC2/tree/master/2409-count-days-spent-together) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/WebDev-Ayush/LC2/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/WebDev-Ayush/LC2/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/WebDev-Ayush/LC2/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/WebDev-Ayush/LC2/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/WebDev-Ayush/LC2/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/WebDev-Ayush/LC2/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2409-count-days-spent-together](https://github.com/WebDev-Ayush/LC2/tree/master/2409-count-days-spent-together) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/WebDev-Ayush/LC2/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/WebDev-Ayush/LC2/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2649-count-total-number-of-colored-cells](https://github.com/WebDev-Ayush/LC2/tree/master/2649-count-total-number-of-colored-cells) |
