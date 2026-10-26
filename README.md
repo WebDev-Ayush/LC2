@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/WebDev-Ayush/LC2/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/WebDev-Ayush/LC2/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/WebDev-Ayush/LC2/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/WebDev-Ayush/LC2/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/WebDev-Ayush/LC2/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/WebDev-Ayush/LC2/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/WebDev-Ayush/LC2/tree/master/1558-course-schedule-iv) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/WebDev-Ayush/LC2/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/WebDev-Ayush/LC2/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/WebDev-Ayush/LC2/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/WebDev-Ayush/LC2/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/WebDev-Ayush/LC2/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Graph
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/WebDev-Ayush/LC2/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/WebDev-Ayush/LC2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/WebDev-Ayush/LC2/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/WebDev-Ayush/LC2/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/WebDev-Ayush/LC2/tree/master/3643-flip-square-submatrix-vertically) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/WebDev-Ayush/LC2/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/WebDev-Ayush/LC2/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/WebDev-Ayush/LC2/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/WebDev-Ayush/LC2/tree/master/2906-construct-product-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/WebDev-Ayush/LC2/tree/master/3227-find-missing-and-repeated-values) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/WebDev-Ayush/LC2/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/WebDev-Ayush/LC2/tree/master/3643-flip-square-submatrix-vertically) |
 | [3797-design-spreadsheet](https://github.com/WebDev-Ayush/LC2/tree/master/3797-design-spreadsheet) |
 ## Hash Table
@@ -916,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/WebDev-Ayush/LC2/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/WebDev-Ayush/LC2/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/WebDev-Ayush/LC2/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/WebDev-Ayush/LC2/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Minimax
 |  |
 | ------- |
