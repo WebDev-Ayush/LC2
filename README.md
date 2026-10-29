@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/WebDev-Ayush/LC2/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/WebDev-Ayush/LC2/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3797-design-spreadsheet](https://github.com/WebDev-Ayush/LC2/tree/master/3797-design-spreadsheet) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/WebDev-Ayush/LC2/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/WebDev-Ayush/LC2/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## String Matching
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/WebDev-Ayush/LC2/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/WebDev-Ayush/LC2/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/WebDev-Ayush/LC2/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/WebDev-Ayush/LC2/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/WebDev-Ayush/LC2/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/WebDev-Ayush/LC2/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3797-design-spreadsheet](https://github.com/WebDev-Ayush/LC2/tree/master/3797-design-spreadsheet) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/WebDev-Ayush/LC2/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/WebDev-Ayush/LC2/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/WebDev-Ayush/LC2/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/WebDev-Ayush/LC2/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -597,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/WebDev-Ayush/LC2/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/WebDev-Ayush/LC2/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/WebDev-Ayush/LC2/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/WebDev-Ayush/LC2/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Design
 |  |
 | ------- |
@@ -625,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/WebDev-Ayush/LC2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/WebDev-Ayush/LC2/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/WebDev-Ayush/LC2/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/WebDev-Ayush/LC2/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -758,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/WebDev-Ayush/LC2/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/WebDev-Ayush/LC2/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/WebDev-Ayush/LC2/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/WebDev-Ayush/LC2/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/WebDev-Ayush/LC2/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
@@ -900,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/WebDev-Ayush/LC2/tree/master/3525-find-x-value-of-array-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/WebDev-Ayush/LC2/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/WebDev-Ayush/LC2/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/WebDev-Ayush/LC2/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Brainteaser
 |  |
 | ------- |
@@ -956,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/WebDev-Ayush/LC2/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/WebDev-Ayush/LC2/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
