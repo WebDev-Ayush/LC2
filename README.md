@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/WebDev-Ayush/LC2/tree/master/0475-heaters) |
 | [0827-expressive-words](https://github.com/WebDev-Ayush/LC2/tree/master/0827-expressive-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/WebDev-Ayush/LC2/tree/master/0841-shortest-distance-to-a-character) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/WebDev-Ayush/LC2/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/WebDev-Ayush/LC2/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2551-apply-operations-to-an-array](https://github.com/WebDev-Ayush/LC2/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/WebDev-Ayush/LC2/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/WebDev-Ayush/LC2/tree/master/1006-vowel-spellchecker) |
 | [1254-number-of-closed-islands](https://github.com/WebDev-Ayush/LC2/tree/master/1254-number-of-closed-islands) |
 | [1364-tuple-with-same-product](https://github.com/WebDev-Ayush/LC2/tree/master/1364-tuple-with-same-product) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/WebDev-Ayush/LC2/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/WebDev-Ayush/LC2/tree/master/1386-cinema-seat-allocation) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/WebDev-Ayush/LC2/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/WebDev-Ayush/LC2/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -737,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/WebDev-Ayush/LC2/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/WebDev-Ayush/LC2/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/WebDev-Ayush/LC2/tree/master/0900-reordered-power-of-2) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/WebDev-Ayush/LC2/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/WebDev-Ayush/LC2/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/WebDev-Ayush/LC2/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/WebDev-Ayush/LC2/tree/master/1840-maximum-building-height) |
@@ -787,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/WebDev-Ayush/LC2/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0456-132-pattern](https://github.com/WebDev-Ayush/LC2/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/WebDev-Ayush/LC2/tree/master/0475-heaters) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/WebDev-Ayush/LC2/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/WebDev-Ayush/LC2/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/WebDev-Ayush/LC2/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/WebDev-Ayush/LC2/tree/master/2089-find-target-indices-after-sorting-array) |
