@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/WebDev-Ayush/LC2/tree/master/1840-maximum-building-height) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/WebDev-Ayush/LC2/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/WebDev-Ayush/LC2/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/WebDev-Ayush/LC2/tree/master/1882-process-tasks-using-servers) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/WebDev-Ayush/LC2/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/WebDev-Ayush/LC2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/WebDev-Ayush/LC2/tree/master/2029-stone-game-ix) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/WebDev-Ayush/LC2/tree/master/0023-merge-k-sorted-lists) |
+| [1882-process-tasks-using-servers](https://github.com/WebDev-Ayush/LC2/tree/master/1882-process-tasks-using-servers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/WebDev-Ayush/LC2/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/WebDev-Ayush/LC2/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2681-put-marbles-in-bags](https://github.com/WebDev-Ayush/LC2/tree/master/2681-put-marbles-in-bags) |
