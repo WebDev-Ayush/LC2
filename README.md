@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/WebDev-Ayush/LC2/tree/master/0854-making-a-large-island) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/WebDev-Ayush/LC2/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/WebDev-Ayush/LC2/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/WebDev-Ayush/LC2/tree/master/1267-count-servers-that-communicate) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/WebDev-Ayush/LC2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/WebDev-Ayush/LC2/tree/master/1558-course-schedule-iv) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/WebDev-Ayush/LC2/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/WebDev-Ayush/LC2/tree/master/0854-making-a-large-island) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/WebDev-Ayush/LC2/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/WebDev-Ayush/LC2/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/WebDev-Ayush/LC2/tree/master/1267-count-servers-that-communicate) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/WebDev-Ayush/LC2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/WebDev-Ayush/LC2/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1558-course-schedule-iv](https://github.com/WebDev-Ayush/LC2/tree/master/1558-course-schedule-iv) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/WebDev-Ayush/LC2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1006-vowel-spellchecker](https://github.com/WebDev-Ayush/LC2/tree/master/1006-vowel-spellchecker) |
 | [1254-number-of-closed-islands](https://github.com/WebDev-Ayush/LC2/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/WebDev-Ayush/LC2/tree/master/1267-count-servers-that-communicate) |
 | [1364-tuple-with-same-product](https://github.com/WebDev-Ayush/LC2/tree/master/1364-tuple-with-same-product) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/WebDev-Ayush/LC2/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/WebDev-Ayush/LC2/tree/master/1386-cinema-seat-allocation) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/WebDev-Ayush/LC2/tree/master/0835-image-overlap) |
 | [0854-making-a-large-island](https://github.com/WebDev-Ayush/LC2/tree/master/0854-making-a-large-island) |
 | [1254-number-of-closed-islands](https://github.com/WebDev-Ayush/LC2/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/WebDev-Ayush/LC2/tree/master/1267-count-servers-that-communicate) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/WebDev-Ayush/LC2/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/WebDev-Ayush/LC2/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/WebDev-Ayush/LC2/tree/master/2906-construct-product-matrix) |
@@ -433,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/WebDev-Ayush/LC2/tree/master/0900-reordered-power-of-2) |
 | [1160-letter-tile-possibilities](https://github.com/WebDev-Ayush/LC2/tree/master/1160-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/WebDev-Ayush/LC2/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/WebDev-Ayush/LC2/tree/master/1267-count-servers-that-communicate) |
 | [1364-tuple-with-same-product](https://github.com/WebDev-Ayush/LC2/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/WebDev-Ayush/LC2/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2029-stone-game-ix](https://github.com/WebDev-Ayush/LC2/tree/master/2029-stone-game-ix) |
@@ -948,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/WebDev-Ayush/LC2/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/WebDev-Ayush/LC2/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/WebDev-Ayush/LC2/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/WebDev-Ayush/LC2/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/WebDev-Ayush/LC2/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/WebDev-Ayush/LC2/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
