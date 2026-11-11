@@ -552,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/WebDev-Ayush/LC2/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/WebDev-Ayush/LC2/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/WebDev-Ayush/LC2/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/WebDev-Ayush/LC2/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3871-count-commas-in-range-ii](https://github.com/WebDev-Ayush/LC2/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/WebDev-Ayush/LC2/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/WebDev-Ayush/LC2/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/WebDev-Ayush/LC2/tree/master/2681-put-marbles-in-bags) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/WebDev-Ayush/LC2/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/WebDev-Ayush/LC2/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/WebDev-Ayush/LC2/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Tree
 |  |
 | ------- |
