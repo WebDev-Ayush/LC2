@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/WebDev-Ayush/LC2/tree/master/3903-smallest-stable-index-i) |
 | [3934-smallest-unique-subarray](https://github.com/WebDev-Ayush/LC2/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/WebDev-Ayush/LC2/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/WebDev-Ayush/LC2/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Union Find
 |  |
 | ------- |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/WebDev-Ayush/LC2/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/WebDev-Ayush/LC2/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/WebDev-Ayush/LC2/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/WebDev-Ayush/LC2/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Tree
 |  |
 | ------- |
@@ -769,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-number-of-zigzag-arrays-i](https://github.com/WebDev-Ayush/LC2/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/WebDev-Ayush/LC2/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/WebDev-Ayush/LC2/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/WebDev-Ayush/LC2/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
